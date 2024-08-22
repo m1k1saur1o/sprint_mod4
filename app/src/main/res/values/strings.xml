@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="btnContact">contact button</string>
+    <string name="txMain">Soy Miguel Garrido: \nIntento de Developer</string>
+    <string name="imageDescription">image</string>
+    <string name="tvLandscape1">Sin experiencia</string>
+    <string name="btnContactInfo">contacto</string>
+    <string name="tvLandscape2">¡PERO MUCHA MOTIVACION!</string>
+    <string name="portraitIvDesc">pug</string>
+    <string name="txArrow"><![CDATA[<-]]></string>
+    <string name="btnSend">Enviar Mail</string>
+    <string name="msgInput">Mensaje</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_light_coral">#DD7373</color>
+    <color name="color_space_cadet">#3B3561</color>
+    <color name="color_citrine">#EAD94C</color>
+    <color name="color_timber_wolf">#D1D1D1</color>
+    <color name="color_verdigris">#51A3A3</color>
+</resources>
